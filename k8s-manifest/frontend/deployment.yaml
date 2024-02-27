@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mario-container
-        image: avaeusk8sacrpoc.azurecr.io/react-svc:latest
+        image: avaeusk8sacrpoc.azurecr.io/react-svc
         ports:
         - containerPort: 3000
       imagePullSecrets: 
