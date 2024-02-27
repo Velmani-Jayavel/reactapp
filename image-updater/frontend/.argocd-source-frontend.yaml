@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - avaeusk8sacrpoc.azurecr.io/react-svc:35
