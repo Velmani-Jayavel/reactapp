@@ -16,7 +16,7 @@ spec:
   source:
     repoURL: https://github.com/Velmani-Jayavel/reactapp.git
     targetRevision: main
-    path: image-updater/prod/frontend
+    path: image-updater/frontend
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
